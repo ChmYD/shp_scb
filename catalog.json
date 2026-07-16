@@ -3,18 +3,18 @@
   "last_updated": "2026-07-16",
   "files": [
     {
-      "name": "lubuntu-32bit.iso",
-      "desc": "Lubuntu 32‑bit для старого железа (Lenovo B575, 4 ГБ RAM)",
-      "url": "https://example.com/lubuntu-32bit.iso"
+      "name": "0001-2014.pdf",
+      "desc": "",
+      "url": "https://drive.google.com/file/d/1PZgz_1RqVaVFiXJ71YswvP01JExYZygl/view?usp=drivesdk"
     },
     {
-      "name": "antix-core-26.iso",
-      "desc": "antiX 26 Core edition — очень лёгкий, отлично на старом ноутбуке",
-      "url": "https://example.com/antix-core-26.iso"
+      "name": "0001-2017.pdf",
+      "desc": "",
+      "url": "https://drive.google.com/file/d/1-_Eob5KhGDG9qERrznaLIf30xigbJjIa/view?usp=drivesdk"
     },
     {
-      "name": "rufus-latest.exe",
-      "desc": "Rufus — утилита для записи образов на флешку (Windows)",
+      "name": "0001-2017.pdf",
+      "desc": "",
       "url": "https://example.com/rufus-latest.exe"
     },
     {
