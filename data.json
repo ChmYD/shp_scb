@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Lubuntu 16.04",
+    "desc": "Лёгкий Ubuntu. Отлично встанет на Lenovo B575 с 4 ГБ ОЗУ.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lubuntu_logo.svg/1200px-Lubuntu_logo_logo.png",
+    "iso_url": "https://mirror.example.com/lubuntu-16.04.iso",
+    "pdf_url": "https://example.com/manual-lubuntu.pdf",
+    "size_mb": 1200
+  },
+  {
+    "name": "antiX 23 Core",
+    "desc": "Самый лёгкий. Для очень старых машин, без systemd.",
+    "img": "https://www.antixlinux.com/wp-content/uploads/2019/07/antiX-logo-small.png",
+    "iso_url": "https://mirror.example.com/antix-23-core.iso",
+    "pdf_url": "https://antixlinux.com/download/manuals/antix-manual.pdf",
+    "size_mb": 850
+  }
+]
